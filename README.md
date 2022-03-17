@@ -1,3 +1,9 @@
+# Что сделала
+1) Пункты меню свёрстаны как в макете Preview - открываются по клику на пункт меню, а закрываются по щелчку на любом месте сайта
+2) Три селекта из Body открываются и закрываются по клику на компонент
+3) Компонент Checkbox сверстан и меняет состояние по клику по нему
+4) Медиазпросы как в макете
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
